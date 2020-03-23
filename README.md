@@ -27,7 +27,6 @@ Our main objective was to utilize the data which we scraped from Indeed and Mons
 # Model results
 We first produced a logistic regression model with 23 independent variables based on the features highlighted above. We obtained a decent 67% accuracy score using a 70%/30% training/testing dataset distribution. However, we noticed several redundant insignificant variables in the model. To resolve this, we applied backward regression to eliminate variables deemed insignificant (p-value > 0.1). The end result was a reduced model with 9 significant variables which included skills, locations, titles and seniority levels. The final reduced model had an accuracy of 63%.
 
-# Other Model Approaches
 Using the same features, we built a Classification Tree model to compare prediction results. The
 end result was an accuracy of 52%.
 
