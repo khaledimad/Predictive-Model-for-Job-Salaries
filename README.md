@@ -31,7 +31,7 @@ Using the same features, we built a Classification Tree model to compare predict
 end result was an accuracy of 52%.
 
 # Key findings:
-1. IBM, NTT Data, and Talent Bus seem to be the most active hirers in this space in the US during the time-frame of our study.
+1. IBM, NTT Data, and Talent Bus seem to be the most active hirers in this space in the US (localized to the specific time-frame of our study).
 2. California has the most analytics-related roles in the nation.
 3. Data Science roles focus on more technical machine learning, whereas Data Analyst roles emphasize data analysis and reporting.
 4. Product Analyst roles seek customer and product experience; Business Analyst jobs desire communication and understanding businesses.
