@@ -3,7 +3,7 @@ The current options for finding an analytics job today are inefficient and scatt
 must search for multiple job titles across several job websites in a process that is very manual and
 time-consuming. The requirements for each job title also varies widely.
 
-To solve this problem, our team built a unified job database that contains more than 25000 highly relevant jobs that were focused on the needs of the business analytics and data science job seeker. We used natural language processing on the data to derive valuable insights about the skills required for each job. We also built a logistic regression model and classification tree to predict if the salary is above the median or not, based on the information available from the job posting. This makes the analytics job hunt much more efficient, by providing job seekers with valuable information that can help in negotiating starting terms even after securing a job offer.
+To solve this problem, our team built a unified job database that contains more than 25,000 highly relevant jobs that were focused on the needs of the business analytics and data science job seeker. We used natural language processing on the data to derive valuable insights about the skills required for each job. We also built a logistic regression model and classification tree to predict if the salary is above the median or not, based on the information available from the job posting. This makes the analytics job hunt much more efficient, by providing job seekers with valuable information that can help in negotiating starting terms even after securing a job offer.
 
 # Description of the Dataset
 We built our jobs dataset by scraping job information from Indeed and Monster. We decided to
