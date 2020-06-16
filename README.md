@@ -35,4 +35,4 @@ end result was an accuracy of 52%.
 2. California has the most analytics-related roles in the nation.
 3. Data Science roles focus on more technical machine learning, whereas Data Analyst roles emphasize data analysis and reporting.
 4. Product Analyst roles seek customer and product experience; Business Analyst jobs desire communication and understanding businesses.
-5. Technology, Technical, and Soft Skills will vary based on the technical level of the role.
+5. Technology, technical, and soft skills will vary based on the technical level of the role.
